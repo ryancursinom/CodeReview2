@@ -83,6 +83,13 @@ footer {
     font-size: 0.9em;
 }
 
+#visao-panoramica iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border-radius: 8px;
+}
+
 
 #visao-panoramica {
     display: flex;
