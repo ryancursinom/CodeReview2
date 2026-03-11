@@ -108,3 +108,10 @@ footer{
     border-top-right-radius:30px;  
     box-shadow:0 -4px 10px rgba(0,0,0,0.1); 
 }
+
+#visao-panoramica {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
