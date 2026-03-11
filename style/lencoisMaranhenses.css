@@ -82,3 +82,11 @@ footer {
     margin-top: 40px;
     font-size: 0.9em;
 }
+
+
+#visao-panoramica {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
