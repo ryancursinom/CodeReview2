@@ -109,6 +109,13 @@ footer{
     box-shadow:0 -4px 10px rgba(0,0,0,0.1); 
 }
 
+#visao-panoramica iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border-radius: 8px;
+}
+
 #visao-panoramica {
     display: flex;
     justify-content: center;
